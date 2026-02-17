@@ -25,7 +25,7 @@ const OwnerLayout: React.FC = () => {
             <Car className="h-5 w-5 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="font-display text-sm font-bold">RideFleet</h1>
+            <h1 className="font-display text-sm font-bold">Drivo Mobility</h1>
             <p className="text-[11px] text-muted-foreground">Fleet Manager</p>
           </div>
         </div>
