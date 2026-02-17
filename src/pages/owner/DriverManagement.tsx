@@ -6,7 +6,7 @@ import { Driver } from '@/types';
 import { cn } from '@/lib/utils';
 
 const mockDrivers: Driver[] = [
-  { id: '1', userId: 'u1', name: 'Alex Johnson', email: 'alex@ridefleet.com', phone: '+1234567890', status: 'ONLINE', vehicleNumber: 'AB 1234', vehicleModel: 'Toyota Camry', rating: 4.9, totalRides: 524, isActive: true, ownerId: 'o1', createdAt: '2025-06-01' },
+  { id: '1', userId: 'u1', name: 'Alex Johnson', email: 'alex@leet.com', phone: '+1234567890', status: 'ONLINE', vehicleNumber: 'AB 1234', vehicleModel: 'Toyota Camry', rating: 4.9, totalRides: 524, isActive: true, ownerId: 'o1', createdAt: '2025-06-01' },
   { id: '2', userId: 'u2', name: 'Maria Garcia', email: 'maria@ridefleet.com', phone: '+1234567891', status: 'ON_RIDE', vehicleNumber: 'CD 5678', vehicleModel: 'Honda Civic', rating: 4.8, totalRides: 312, isActive: true, ownerId: 'o1', createdAt: '2025-08-15' },
   { id: '3', userId: 'u3', name: 'James Smith', email: 'james@ridefleet.com', phone: '+1234567892', status: 'OFFLINE', vehicleNumber: 'EF 9012', vehicleModel: 'Hyundai Sonata', rating: 4.7, totalRides: 198, isActive: true, ownerId: 'o1', createdAt: '2025-10-20' },
   { id: '4', userId: 'u4', name: 'Sarah Wilson', email: 'sarah@ridefleet.com', phone: '+1234567893', status: 'OFFLINE', vehicleNumber: 'GH 3456', vehicleModel: 'Kia Optima', rating: 4.6, totalRides: 87, isActive: false, ownerId: 'o1', createdAt: '2025-12-01' },

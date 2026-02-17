@@ -36,7 +36,7 @@ const LoginPage: React.FC = () => {
           <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-accent">
             <Car className="h-6 w-6 text-accent-foreground" />
           </div>
-          <span className="font-display text-xl font-bold text-primary-foreground">RideFleet</span>
+          <span className="font-display text-xl font-bold text-primary-foreground">Drivo Mobility</span>
         </div>
 
         <div className="space-y-6">
@@ -49,7 +49,7 @@ const LoginPage: React.FC = () => {
           </p>
         </div>
 
-        <p className="text-sm text-primary-foreground/40">© 2026 RideFleet. All rights reserved.</p>
+        <p className="text-sm text-primary-foreground/40">© 2026 Drivo Mobility. All rights reserved.</p>
       </div>
 
       {/* Right panel - form */}
@@ -60,7 +60,7 @@ const LoginPage: React.FC = () => {
             <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary">
               <Car className="h-6 w-6 text-primary-foreground" />
             </div>
-            <span className="font-display text-xl font-bold">RideFleet</span>
+            <span className="font-display text-xl font-bold">Drivo Mobility</span>
           </div>
 
           <h2 className="font-display text-2xl font-bold">Welcome back</h2>

@@ -78,7 +78,7 @@ const OwnerLayout: React.FC = () => {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <Car className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="font-display text-sm font-bold">RideFleet</span>
+            <span className="font-display text-sm font-bold">Drivo Mobility</span>
           </div>
           <button onClick={logout} className="text-muted-foreground">
             <LogOut className="h-5 w-5" />
